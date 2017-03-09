@@ -1,4 +1,4 @@
 <?php
-echo "Git again!";
+echo "Git again + again !";
 phpinfo();
 ?>
